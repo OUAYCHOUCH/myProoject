@@ -1,6 +1,7 @@
-h1{
-    border: 2px solid black;
-}
 body{
     background-color: azure;
+    font-size: large;
+}
+h1{
+    border: 2px solid black;
 }
