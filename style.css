@@ -5,3 +5,8 @@ body{
 h1{
     border: 2px solid black;
 }
+
+p{
+    color: blue;
+    border: none;
+}
